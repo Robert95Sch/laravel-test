@@ -20,7 +20,7 @@
 
 ## It's running now, but...tell me more, tell me more!
 ### What's the magic behind?
-This repository is based on a completely normal composer created fresh Laravel installation. With a little pinch of tailwindcss and IONOS branding. In this [commit](https://github.com/ionos-deploy-now/laravel-startercommit/475c1f1f60d6cde364aa539722ca79f111760793) you can find the files that are doing the magic. And if you are a great magician and understand it, you can adapt it to your own project. Please welcome with a big applause...
+This repository is based on a completely normal composer created fresh Laravel installation. With a little pinch of tailwindcss and IONOS branding. In this [commit](https://github.com/ionos-deploy-now/laravel-starter/commit/475c1f1f60d6cde364aa539722ca79f111760793) you can find the files that are doing the magic. And if you are a great magician and understand it, you can adapt it to your own project. Please welcome with a big applause...
 
 #### [`.htaccess`](https://github.com/ionos-deploy-now/laravel-starter/blob/475c1f1f60d6cde364aa539722ca79f111760793/.htaccess)
 To put this file to your document root is important, because we can't change the web root in our infrastructure. Because of that we'll have to forward all requests to the directory that would be web root, if we could change it... :innocent: Furthermore we enable gzip-compression.
