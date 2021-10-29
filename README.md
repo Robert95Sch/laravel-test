@@ -64,7 +64,7 @@ What you can change already is the cli-version of PHP. Just find and replace `ph
 The PHP version that is used on the Github runners in composer action you can specify in `.github/workflow/deploy-now.yml`. Please take a look at the documentation of this [composer action](https://github.com/php-actions/composer#passing-arguments).
 
 ### One last thing...
-If you have any suggestions, requests, questions, please get in touch with us. Write us directly via Deploy Now dashboard or open a Github issue. We doing our best to make you happy! :carousel_horse:
+If you have any suggestions, requests, questions, please get in touch with us. Write us directly via Deploy Now dashboard or send a mail to [info@DeployNow.dev](mailto:info@DeployNow.dev). We do our best to make you happy! :carousel_horse:
 
 ### Ah, almost forgotten -  nice-to-know-it links
 
