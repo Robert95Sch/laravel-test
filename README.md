@@ -72,3 +72,5 @@ If you have any suggestions, requests, questions, please get in touch with us. W
 - [Deploy Now product info](https://www.ionos.com/hosting/deploy-now)
 
 _IONOS Deploy Now - made with :heart: by [us](https://docs.ionos.space/about-us/) in Karlsruhe, Germany_
+
+Retrigger deployment
